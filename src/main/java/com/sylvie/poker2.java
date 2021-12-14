@@ -4,7 +4,7 @@ public class poker2 {
     public static void main(String[] args) {
         //Unicode
 
-        int n = 0x0040;
+        int n = 0x00A9;
         System.out.println((char)n);
         char[] types = {'c', 'd', 'h', 's'};
         for (int i = 0; i < 4; i++) {
